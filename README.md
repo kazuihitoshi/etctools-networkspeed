@@ -12,7 +12,10 @@
 ## “®ìŠÂ‹«
 
  python 3
+ 
  pip install seleinum
+ 
  selenium chrome driver
+ 
  chromeƒuƒ‰ƒEƒU
 
